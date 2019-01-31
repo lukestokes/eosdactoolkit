@@ -1,5 +1,5 @@
 #Purpose
-A frontend user interface to the eosDAC Member Client web application.
+A frontend user interface to the TestDAC Member Client web application.
 
 # Technical Details
 The member's client uses **Vue.js** and **Quasar** as the frontend framework to create a Single Page Application which then connects to the EOS mainnet or Jungle testnet (depending on the configuration file). In order to change the Member Client to interface with your DAC, you want to follow the instructions and general guidelines below.
@@ -57,7 +57,7 @@ quasar dev
 [Quasar Docs](https://quasar-framework.org/guide/index.html)
 
 ## What to Change
-Since eosDAC is making this open source software for the use of creating other DACs, DACs will need to know what to change in order to edit the software for their needs. The main folders you will want to change for your DAC's branding, messaging, and assets are:
+Since TestDAC is making this open source software for the use of creating other DACs, DACs will need to know what to change in order to edit the software for their needs. The main folders you will want to change for your DAC's branding, messaging, and assets are:
 - `src/statics`
 - `src/i18n`
 - `src/statics/config.json`
@@ -67,4 +67,4 @@ Since eosDAC is making this open source software for the use of creating other D
 Other files may need to be changed by your team if you want to adjust the content layout or page structure such as the pages, plugins, or components. The design is done in https://material.io/design/
 
 # Author
-The eosDAC Team. Join us on our Discord channel #5-tech-and-development if you have any questions. https://discord.io/eosdac
+The TestDAC Team. Join us on our Discord channel #5-tech-and-development if you have any questions. https://discord.io/eosdac

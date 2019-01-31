@@ -1,10 +1,10 @@
 {
   "name": "eosdac-material",
   "version": "0.1.6",
-  "description": "Toolkit GUI for eosDAC",
-  "productName": "eosDAC Member Client",
+  "description": "Toolkit GUI for TestDAC",
+  "productName": "TestDAC Member Client",
   "cordovaId": "org.cordova.quasar.app",
-  "author": "eosDAC <hello@eosdac.io>",
+  "author": "TestDAC <hello@eosdac.io>",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.vue src",

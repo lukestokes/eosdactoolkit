@@ -2,7 +2,7 @@
 
 echo " "
 echo " "
-echo "===================== eosDAC Member Client Deploy Script ====================="
+echo "===================== TestDAC Member Client Deploy Script ====================="
 echo " "
 echo "Usage: ./deploy-eosdac-material.sh jungle 1.0.0"
 echo "This example will deploy the 1.0.0 tag configured for the jungle testnet"
